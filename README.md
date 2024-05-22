@@ -31,9 +31,11 @@ RESUMEN
 
 Ingrese información aquí sobre el estado general y los aspectos más destacados del avance del proyecto en esta semana. 
 
-El proyecto "Sistema de Asistencia de Investigación Integrado con Zotero y Herramientas de Inteligencia ![](Aspose.Words.2074994e-d849-47b6-bc9b-e054ef094ffb.001.png)Artificial" ha avanzado significativamente en múltiples frentes. En lo que respecta al desarrollo, hemos completado con éxito la integración del código y la gestión del proyecto, lo que nos ha permitido avanzar en la implementación de las capacidades de inteligencia artificial. Este hito crucial nos ha llevado a desarrollar prototipos funcionales que están siendo refinados y optimizados continuamente. 
+Hemos trabajado con diferentes proyectos dentro de los que destacan un proyecto donde incorporamos ![](Aspose.Words.f7fd5d94-9482-4c57-8ca5-61b99945cbbe.001.png)un asistente con inteligencia artificial con Zotero, pero no hubo éxito en la búsqueda de mejoras del complemento. 
 
-Estos logros nos han permitido establecer una base sólida para el desarrollo continuo del proyecto. Nos sentimos confiados en nuestra capacidad para cumplir con los hitos planificados y entregar un sistema robusto y efectivo que brinde una valiosa asistencia en la investigación académica y científica. 
+Se intentó con Kerko que nos arroja una ventana con flask de las bibliografías de tu cuenta Zotero, pero los intentos de implementación no fueron un éxito. 
+
+Reconocimiento facial, encontramos un proyecto donde en base a un xml reconoce caras, pero es un proyecto muy rústico, a este le incorporaremos IA para mejorar la detección de los mismos. 
 
 INTELIGENCIA ARTIFICIAL - UNIDAD II 
 
